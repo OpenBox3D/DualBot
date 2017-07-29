@@ -1,0 +1,27 @@
+DualBot BOM
+
+Metal Parts(Aluminium Frame & Linear Rods):
+	1. 2020 Aluminium Extrusion:(Dimension x Number of pieces)
+			149mm x 2
+			420mm x 6
+			500mm x 4
+			550mm x 4 
+			553mm x 2
+	2. 
+		
+Electronics:
+	1. 6 x Nema 17 Motor(34mm)
+	2. 1 x Dual Shaft Nema 17 Motor(34mm)
+	3. 1 x Megatronics V2 Control Board
+	4. 6 x DRV8825 Stepper Motor Driver, alternate option Pololu A4988
+
+	
+Bearings(Linear & Roller):
+
+
+
+Nuts & Bolts:
+
+
+
+Miscellaneous:
