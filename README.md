@@ -24,4 +24,4 @@ Reduces print time by 50% when prototyping molds, left-right parts such as shoes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Build platform dimensions for Mirror Mode; 115mm(L)x195mm(B)x255mm(H).<br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id risus feugiat, vestibulum arcu at, vehicula purus. Praesent lobortis fermentum neque, eu maximus magna accumsan non. Nunc vulputate urna ipsum. Maecenas euismod lacus vel semper iaculis. Nulla non risus volutpat, congue elit vitae, iaculis nulla. Ut at pulvinar lacus. Donec luctus malesuada aliquam. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
