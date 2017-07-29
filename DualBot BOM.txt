@@ -15,22 +15,34 @@ Metal Parts(Aluminium Frame, Linear Rods, etc...):
 		214mm x 1
 		257mm x 1
 	4. 2 x 300mm Tr8*8mm ACME Leadscrew
-		
+	5. 3 x Anti Vibration Damper for Nema17 Motor
+	6.
+	
+	
 Electronics:
 	1. 6 x Nema 17 Motor(34mm)
 	2. 1 x Dual Shaft Nema 17 Motor(34mm)
 	3. 1 x Megatronics V2 Control Board
-	4. 6 x DRV8825 Stepper Motor Driver, alternate option Pololu A4988
-	5. 4 x Mechanical End-Stop Switch
+	4. 1 x LCD12864 Full Graphic Smart Controller 
+	5. 1 x Adapter for LCD12864 to Megatronics Board
+	5. 6 x DRV8825 Stepper Motor Driver, alternate option Pololu A4988
+	6. 4 x Mechanical End-Stop Switch
+	7. 1 x 
 
-	
 Bearings, Nuts, Bolts, ETC...:
 	1. 2 x 5mm-5mm Flexible Coupling
 	2. 2 x 5mm-8mm Flexible Coupling
-
-
-
-
-
-
+	3. 14 x LM8UU Linear Bearings
+	4. 2 x GT2 20 Teeth Pulley, 5mm Bore
+	5. 8 x F624ZZ Flanged Ball Bearing
+	6. 4 x M3 Knurled Grip Knobs
+	7. 100 x M4 Drop-In Tee-Nuts for 2020 Aluminium Profile
+	8. 100 x M4 12mm Button Head Cap Screw, Stainless Steel
+	9. 4 x M4 29mm Button Head Cap Screw, Stainless Steel
+	
 Miscellaneous:
+	1. 2 x 500mm 8mm PET Braided Sleeve, Black
+	2. 4 x 50mm 8mm Heat Shrink Tubing, Black
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id risus feugiat, vestibulum arcu at, vehicula purus. Praesent lobortis fermentum neque, eu maximus magna accumsan non. Nunc vulputate urna ipsum. Maecenas euismod lacus vel semper iaculis. Nulla non risus volutpat, congue elit vitae, iaculis nulla. Ut at pulvinar lacus. Donec luctus malesuada aliquam.
