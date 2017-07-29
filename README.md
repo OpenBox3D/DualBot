@@ -1,8 +1,8 @@
 # DualBot
 Information ReadMe
 
-DualBot is our Marlin based, open-sourced, RepRap styled 3D Printer featuring the Dual Independent Extruders System(D.I.E.S.). With seperate extruders, it provides a weight reduction for the X carriage which allows for a reduction in backlash when increasing print speeds.<br>
-Seperate carriages allows the inactive extruder to be parked outside of the print platform. When parked, the inactive extruder is capped, eliminating the need to cool down and heat up during extruder change. This drastically reduces the print time when compared to having both extruders together on a single carriage.<br>
+DualBot is our Marlin based, open-sourced, RepRap styled 3D Printer featuring the Dual Independent Extruders System(D.I.E.S.). Seperate carriages allows the inactive extruder to be parked outside of the print platform. When parked, the inactive extruder is capped, eliminating the need to cool down and heat up during extruder change. This drastically reduces the print time when compared to having both extruders together on a single carriage.<br>
+The independent extruder results in a weight reduction for the X-carriage, resulting in a reduction in backlash when increasing print speeds.<br>
 DualBot features a heated Cast Aluminium base, PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H). Maximium build height can be indefinitely increased by switching out the Z-axis ACME threaded rods and accompanying supports. 
 
 DualBot features 4 printing modes;<br>
