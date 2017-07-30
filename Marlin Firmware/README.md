@@ -10,7 +10,7 @@ There are example configuration files for typical single extruder printers
 and RepRap X2 machines on branches "one_e" and "x2".  
 
 See for more info:
-https://github.com/dob71/MarlinX2
+https://github.com/dob71/MarlinX2 <br> 
 http://www.okob.net/projects/reprap_x2v3
 
 The firware is based on Marlin firware that in its turn is based on Sprinter firmware...
