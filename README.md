@@ -1,7 +1,8 @@
 # DualBot
 Information ReadMe
 
-DualBot is our Marlin based, open-source, RepRap 3D Printer featuring our Dual Independent Extruder System(D.I.E.S.).<br>
+DualBot is our Marlin based, open-source, RepRap 3D Printer featuring IDEX, Independent Dual Extruders.<br>
+This is the next iteration of RepRap 3D printers and it replicates 3D printers 50% faster than any other RepRaps before it, due to it's ability to duplicate prints, producing two copies of the same part without increasing print time.<br>
 Seperate carriages allows the inactive extruder to be parked outside of the print platform. While parked, the inactive extruder is capped, eliminating the need for cool down and heat up during extruder change. This drastically reduces the print time when compared to systems that have both extruders together on a single carriage. The independent extruder also results in a weight reduction for the X-carriage, leading to a reduction in backlash when increasing print speeds.<br><br>
 DualBot features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H). Maximium build height can be indefinitely increased by switching out the Z-axis ACME threaded rods and accompanying supports. 
 
