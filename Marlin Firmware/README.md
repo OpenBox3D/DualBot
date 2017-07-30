@@ -9,7 +9,7 @@ The default config file is for dual X drive machines (i.e. RepRap X2V3).
 There are example configuration files for typical single extruder printers 
 and RepRap X2 machines on branches "one_e" and "x2".  
 
-See for more info:
+See for more info:<br>
 https://github.com/dob71/MarlinX2 <br> 
 http://www.okob.net/projects/reprap_x2v3
 
