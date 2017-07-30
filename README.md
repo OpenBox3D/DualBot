@@ -6,7 +6,7 @@ This is our iteration of RepRap 3D printers and it replicates 3D printers 50% fa
 This significantly cuts down turnaround time during prototyping production which often requires multiple copies of the same part produced with either the same or different material.<br>
 The ability to print with two different materials on separate extruders not only allows more complex prints with the use of a soluble support material. It also reduces wasted material by eliminating the need for a priming tower, which is required when using a single mixing extruder.<br>
 Seperate carriages allows the inactive extruder to be parked outside of the print platform. While parked, the inactive extruder is capped, eliminating the need for cool down and heat up during extruder change. This drastically reduces the print time when compared to systems that have both extruders together on a single carriage. The independent extruder also results in a weight reduction for the X-carriage, leading to a reduction in backlash when increasing print speeds.<br><br>
-DualBot features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H). Maximium build height can be indefinitely increased by switching out the Z-axis ACME threaded rods and accompanying supports. 
+DualBot features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H). Maximium build height can be indefinitely increased by switching out the Z-axis TR8*8 ACME leadscrews and accompanying supports. 
 
 DualBot features 4 printing modes;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
