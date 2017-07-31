@@ -9,16 +9,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Reduction in waste material by eliminating the need for a priming tower, which is required when printing with a single extruder with material mixing capabilities.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. The independent extruder reduces the weight on the X-carriage, this reduces backlash when increasing print speeds.
 
-## Expandable & Minimal Upgrades
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is paired with a set of tested and proven E3D-V6 hot-ends. This is the first and most common upgrade in a majority of 3D printers.
+## Expandable Size & Minimal Upgrades
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is paired with a set of tested and proven E3D-V6 hot-ends. This is the first and most common upgrade in a majority of 3D printers.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot's build platform features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximium build height can be indefinitely increased by switching out the Z-axis leadscrews and accompanying supports.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build platform and silicon heater may be increased to 295mm(L)x295mm(B), together with a 24V Power Supply upgrade to efficiently handle power requirements.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding on a Raspberry Pi or any equivalent SoC will allow DualBot to function as a stand-alone printer. A SoC is also able to provide WebCam support, allowing remote print monitoring. This would eliminate the need to tether a laptop or desktop while excuting a print job.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H).
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximium build height can be indefinitely increased by switching out the Z-axis TR8*8 ACME leadscrews and accompanying supports.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximium build 
-
-DualBot features 4 printing modes;<br>
+## 4 Print Modes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 1.)Single Extruder Mode: Print with primary extruder(left by default).<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
