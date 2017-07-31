@@ -10,9 +10,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. The independent extruder reduces the weight on the X-carriage, this reduces backlash when increasing print speeds.
 
 ## Expandable Size & Minimal Upgrades
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is paired with a set of tested and proven E3D-V6 hot-ends. This is the first and most common upgrade in a majority of 3D printers.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot's build platform features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build platform and silicon heater may be increased to 295mm(L)x295mm(B), together with a 24V Power Supply upgrade to efficiently handle power requirements.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is paired with a set of tested and proven :heavy_check_mark: E3D-V6 hot-ends. This is the first and most common upgrade in a majority of 3D printers.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot's build platform features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H). There is no more need for blue tape or hairsprays. <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build platform and silicon heater may be increased to 295mm(L)x295mm(B), together with a 24V Power Supply upgrade to efficiently handle power requirements.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding on a Raspberry Pi or any equivalent SoC will allow DualBot to function as a stand-alone printer. A SoC is also able to provide WebCam support, allowing remote print monitoring. This would eliminate the need to tether a laptop or desktop while excuting a print job.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximium build height can be indefinitely increased by switching out the Z-axis leadscrews and accompanying supports.<br>
 
