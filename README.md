@@ -1,15 +1,22 @@
 # DualBot
-# Information ReadMe
+# Information :open_book: ReadMe
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is our Marlin based, open-source, RepRap 3D Printer featuring IDEX, Independent Dual Extruders. This is our iteration of RepRap 3D printers and it replicates 3D printers 50% faster than any other RepRaps before it, due to it's ability to duplicate prints, producing a copy of the printed part without increasing print time.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This significantly cuts down turnaround time during prototyping production which often requires multiple copies of the same part produced with either the same or different material.<br>
 
 ## Advantages :+1: of IDEX;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Seperate X-carriage allows the inactive extruder to be parked outside of the print platform. While parked, the inactive extruder is capped, eliminating the need for cool down and heat up during extruder change. This significantly reduces the print time when compared to systems that have both extruders together on a single carriage.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Reduction in wasted material by eliminating the need for a priming tower, which is required when printing with a single extruder with multiple material mixing capabilities.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Reduction in waste material by eliminating the need for a priming tower, which is required when printing with a single extruder with material mixing capabilities.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. The independent extruder reduces the weight on the X-carriage, this reduces backlash when increasing print speeds.
-    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H). Maximium build height can be indefinitely increased by switching out the Z-axis TR8*8 ACME leadscrews and accompanying supports. 
+
+## Expandable & Minimal Upgrades
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is paired with a set of tested and proven E3D-V6 hot-ends. This is the first and most common upgrade in a majority of 3D printers.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximium build height can be indefinitely increased by switching out the Z-axis TR8*8 ACME leadscrews and accompanying supports.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximium build 
 
 DualBot features 4 printing modes;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
