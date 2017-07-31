@@ -12,9 +12,9 @@
 ## Expandable Size & Minimal Upgrades
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is paired with a set of tested and proven E3D-V6 hot-ends. This is the first and most common upgrade in a majority of 3D printers.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot's build platform features a Cast Aluminium base, silicon heater,  PEI surface, build platform of 295mm(L)x195mm(B)x255mm(H).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximium build height can be indefinitely increased by switching out the Z-axis leadscrews and accompanying supports.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build platform and silicon heater may be increased to 295mm(L)x295mm(B), together with a 24V Power Supply upgrade to efficiently handle power requirements.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding on a Raspberry Pi or any equivalent SoC will allow DualBot to function as a stand-alone printer. A SoC is also able to provide WebCam support, allowing remote print monitoring. This would eliminate the need to tether a laptop or desktop while excuting a print job.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding on a Raspberry Pi or any equivalent SoC will allow DualBot to function as a stand-alone printer. A SoC is also able to provide WebCam support, allowing remote print monitoring. This would eliminate the need to tether a laptop or desktop while excuting a print job.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximium build height can be indefinitely increased by switching out the Z-axis leadscrews and accompanying supports.<br>
 
 ## 4 Print Modes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2.)Dual Extruder Mode; Print with two different coloured filaments to achieve two colours on a single model or<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Print with speciality materials combination, eg; PLA main with Conductive PLAor<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Print with a main material & a soluble support material. IE; PLA-main, PVA-support or ABS-main, HIPS-support<br><br>
+Print with a soluble support material. IE; PLA-main, PVA-support or ABS-main, HIPS-support<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 3.)Duplication Mode: Secondary(right) extruder will print a direct copy of the primary(left) extruder simultaneously.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
