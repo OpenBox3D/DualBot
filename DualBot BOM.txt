@@ -2,18 +2,11 @@ DualBot BOM
 
 Metal Parts(Aluminium Frame, Linear Rods, etc...):
 	1. 2020 Aluminium Extrusion:(Dimension x Number of pieces)
-		149mm x 2
-		420mm x 6
-		500mm x 4
-		550mm x 4 
-		553mm x 2
+		
 	2. 8mm Diameter Linear Rods:(Length x Number of pieces)
-		340mm x 4
-		420mm x 2
-		514mm x 2
+		
 	3. 5mm Diameter Linear Rods:(Length x Number of pieces)
-		214mm x 1
-		257mm x 1
+		
 	4. 2 x 300mm Tr8*8mm ACME Leadscrew
 	5. 3 x Anti Vibration Damper for Nema17 Motor
 	6.
