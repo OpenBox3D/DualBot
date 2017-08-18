@@ -14,14 +14,14 @@ Electronics:
 	2. 
 	3. 
 	4. 1 x LCD12864 Full Graphic Smart Controller 
-	5. 1 x Adapter for LCD12864 to Megatronics Board
+	5. 1 x Adapter for LCD12864 
 	5. 
 	6. 
 	7.  
 
 Bearings, Nuts, Bolts, ETC...:
-	1. 
-	2. 
+	1. M4 Tee-Nuts
+	2. M4 Socket Head Cap Screws
 	3. 
 	4. 
 	5. 
@@ -32,7 +32,8 @@ Bearings, Nuts, Bolts, ETC...:
 Miscellaneous:
 	1. 2 x 500mm 8mm PET Braided Sleeve, Black
 	2. 4 x 50mm 8mm Heat Shrink Tubing, Black
-	3. 3 x 500mm 1.75 PTFE tube, Black
+	3. 2 x 500mm 1.75 PTFE tube, Black
+	4. 2 x PTFE PC4-M10 Quick Disconnect
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
