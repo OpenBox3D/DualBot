@@ -1,6 +1,6 @@
 # DualBot Information :open_book: ReadMe
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is our Marlin based, open-source, RepRap 3D Printer featuring IDEX, Independent Dual Extruders. This is our iteration of RepRap 3D printers and it replicates 3D printers 50% faster than any other RepRaps before it, due to it's ability to duplicate prints, producing a copy of the printed part without increasing print time.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is our Marlin based, open-source, RepRap 3D Printer featuring an Independent Dual Extrusion System (IDES). This is our iteration of RepRap 3D printers and it replicates 3D printers 50% faster than any other RepRaps before it, due to it's ability to duplicate prints, producing a copy of the printed part without increasing print time.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This significantly cuts down turnaround time during prototyping production which often requires multiple copies of the same part produced with either the same or different material.<br>
 
 ## Advantages :+1: of IDEX;
