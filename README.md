@@ -6,7 +6,7 @@
 ## Advantages :+1: of IDEX;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Seperate X-carriage allows the inactive extruder to be parked outside of the print platform. While parked, the inactive extruder is capped, eliminating the need for cool down and heat up during extruder change. This significantly reduces the print time when compared to systems that have both extruders together on a single carriage.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Reduction in waste material by eliminating the need for a priming tower, which is required when printing with a single extruder with material mixing capabilities.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. The independent extruder reduces the weight on the X-carriage, this reduces backlash when increasing print speeds.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Independent extruders reduces the weight on the X-carriage(when compared to dual extruders on a single carriage, this reduces backlash when increasing print speeds.
 
 ## Expandable Size & Minimal Upgrades
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DualBot is paired with a set of tested and proven :heavy_check_mark: E3D-V6 hot-ends. This is the first and most common upgrade in a majority of 3D printers.<br> 
